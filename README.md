@@ -1,8 +1,6 @@
 # hello-world
 
-Hey there!
+Howdy!
 
-My name is Caroline and I am learning how to use github!
-I also love cats.
-
-Okbye.
+My name is Caroline and I am learning how to use Github!
+I also love cats!!!
